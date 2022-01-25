@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.link{
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-decoration: none;
+    color: #fff
+}
+.barra{
+    background-color:brown;
+    height: 30px;
+    padding-top: 10px;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 5px;
+}
+.input{
+    color: #fff;
+    text-decoration: none;
+    background-color:brown;
+    border-radius: 4px;
+    width: 200px;
+    padding: 5px;
+    font-size: 20px;
+}
